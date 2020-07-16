@@ -660,11 +660,11 @@ class Map extends Component {
             var result = counties.filter(county => county.County.toLowerCase() === data.name.toLowerCase());
             console.log(result);
             info.innerHTML += data.name + " belongs to hydrologic region " + data.Hydrologic_Region + ", ";
-            info.innerHTML += "and its water is sourced from " + data.Supplier_Name + ".";
+            info.innerHTML += "and its water is sourced from " + data.Supplier_Name + ". ";
 
-            info.innerHTML += "The projected water production is " + data.R_GPCD_Reported + " gallons of water \n";
-            info.innerHTML += "and each resident can consume " + data.R_GPCD_Reported + " gallons per capita day. \n";
-            info.innerHTML += data.name + " has a population of  " + data.Population_Served + ".\n";
+            info.innerHTML += "The projected water production is " + data.Production_Reported + " gallons of water \n";
+            info.innerHTML += "and each resident can consume " + data.R_GPCD_Reported + " gallons. ";
+            info.innerHTML += data.name + " has a population of  " + data.Population_Served + ".";
             // if (data.description) {
               
             // }
