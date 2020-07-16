@@ -36,14 +36,13 @@ Index(['Water System No', 'Water System Name', 'Principal County Served',
       dtype='object')
 """
 
-supplier_data = "/Users/nikitapatel/Documents/GitHub/InternHackathonIBM/uw_supplier_data070720.csv"
+supplier_data = "uw_supplier_data070720.csv"
 df = pd.read_csv(supplier_data)
 supplier_df = df[['PWSID','Stage_Invoked','Reporting_Month','Production_Reported','2013_Production_Reported','Recycled_Reported','Units','Population_Served','R_GPCD_Reported',
                   'Conservation_Standard','Production_Calculated','2013_Production_Calculated','Percent_Residential_Use','Hydrologic_Region','Watering_Days_Per_Week']].copy()
-water_sys_data = "/Users/nikitapatel/Documents/GitHub/InternHackathonIBM/water_systems.csv"
+water_sys_data = "water_systems.csv"
 df = pd.read_csv(water_sys_data)
 water_sys_df = df[['Water System No','Water System Name','Principal County Served','Primary Water Source Type','Residential Population','Total Population', 'CITY']].copy()
-
 
 county_df = water_sys_df[['Water System No','Principal County Served']].copy()
 county_df.dropna()
@@ -64,11 +63,6 @@ model_df.loc[model_df.Units=="MG",'Production_Reported']*=1000000
 model_df.drop(columns=['Units'], inplace=True)
 print(model_df)
 
-model_df.to_csv("/Users/nikitapatel/Documents/GitHub/InternHackathonIBM/waterdata.csv")
+model_df.to_csv("waterdata.csv")
 
 print("DONE")
-
-"""
-model_df cols: PWSID Reporting_Month  Production_Reported  Percent_Residential_Use  Population_Served  R_GPCD_Reported  Hydrologic_Region     County
-
-"""
