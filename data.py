@@ -44,23 +44,31 @@ water_sys_data = "/Users/nikitapatel/Documents/GitHub/InternHackathonIBM/water_s
 df = pd.read_csv(water_sys_data)
 water_sys_df = df[['Water System No','Water System Name','Principal County Served','Primary Water Source Type','Residential Population','Total Population', 'CITY']].copy()
 
+
 county_df = water_sys_df[['Water System No','Principal County Served']].copy()
-county_df.dropna(subset=['Water System No','Principal County Served'])
+county_df.dropna()
 county_df.drop_duplicates(subset='Water System No', keep='first', inplace=True)
 county_df.set_index('Water System No')
 
-model_df = supplier_df[['PWSID','Reporting_Month','Production_Reported','Units','Population_Served','R_GPCD_Reported','Hydrologic_Region']].copy()
+model_df = supplier_df[['PWSID','Reporting_Month','Production_Reported','Units','Percent_Residential_Use','Population_Served','R_GPCD_Reported','Hydrologic_Region']].copy()
+model_df.dropna(inplace=True)
+model_df.reset_index(drop=True, inplace=True)
 model_df['County'] = model_df['PWSID']
-
-print(county_df.loc[county_df['Water System No'] == 'CA0110005','Principal County Served'].item())
-model_df.loc[model_df.PWSID == "CA0110005", "County"] = county_df.loc[county_df['Water System No'] == 'CA0110005', 'Principal County Served'].item()
-
-print(county_df.head())
-print(model_df.head())
 
 for ids in county_df['Water System No']:
     model_df.loc[model_df.PWSID == ids, "County"] = county_df.loc[county_df['Water System No'] == ids, 'Principal County Served'].item()
 
+model_df.loc[model_df.Units=="AF",'Production_Reported']*=325851
+model_df.loc[model_df.Units=="CCF",'Production_Reported']*=748
+model_df.loc[model_df.Units=="MG",'Production_Reported']*=1000000
+model_df.drop(columns=['Units'], inplace=True)
+print(model_df)
+
 model_df.to_csv("/Users/nikitapatel/Documents/GitHub/InternHackathonIBM/waterdata.csv")
 
 print("DONE")
+
+"""
+model_df cols: PWSID Reporting_Month  Production_Reported  Percent_Residential_Use  Population_Served  R_GPCD_Reported  Hydrologic_Region     County
+
+"""
