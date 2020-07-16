@@ -4,6 +4,7 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const nameRoutes = require('./routes/names-route.js');
 const healthRoutes = require('./routes/health-route.js');
+const waterRoutes = require('./routes/water-route.js');
 
 const app = express();
 
@@ -17,6 +18,7 @@ app.use(express.static(path.join('public')));
 // routes and api calls
 app.use('/health', healthRoutes);
 app.use('/api/names', nameRoutes);
+app.use('/water', waterRoutes);
 
 // start node server
 const port = process.env.PORT || 3000;
