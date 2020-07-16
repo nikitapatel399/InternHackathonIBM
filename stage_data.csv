@@ -1,0 +1,50 @@
+County,Hydrologic_Region,Stage,Supplier_Name,Water Source Type,Population_Served,Production_Reported,R_GPCD_Reported
+ALAMEDA,San Francisco Bay,0,East Bay Municipal Utilities District,Surface Water,1450000,5449600000.0,73.0
+SAN LUIS OBISPO,Central Coast,moderately restricted,Morro Bay  City of,Surface Water Purchased,10439,27554380.0,67.43
+ORANGE,South Coast,0,Yorba Linda Water District,Surface Water Purchased,79367,365272454.0,105.15
+LOS ANGELES,South Coast,2,Long Beach  City of,Surface Water Purchased,498712,1423968870.0,55.0
+MERCED,San Joaquin River,2,"Los Banos, City of",Groundwater,41923,277365000.0,108.0
+STANISLAUS,San Joaquin River,2,Turlock  City of,Groundwater,74730,466900000.0,111.85
+RIVERSIDE,South Coast,2,Jurupa Community Service District,Groundwater,140147,426437619.3,75.0
+SAN MATEO,San Francisco Bay,Normal,Coastside County Water District,Surface Water,16848,59600000.0,63.0
+SACRAMENTO,Sacramento River,Stage 1 Normal Water Supply,Citrus Heights Water District,Surface Water Purchased,65093,380919819.0,170.0
+VENTURA,South Coast,None,Camrosa Water District,Surface Water Purchased,35783,248950164.0,157.0
+EL DORADO,Sacramento River,0,El Dorado Irrigation District,Surface Water,113255,1007857143.0,214.0
+IMPERIAL,Colorado River,1,El Centro  City of,Surface Water Purchased,46364,172090000.0,87.0
+SANTA CLARA,San Francisco Bay,0,Milpitas  City of,Surface Water Purchased,76817,222296624.0,53.0
+SONOMA,North Coast,"Stage One - Mandatory (rescinded June 14, 2016)",Santa Rosa  City of,Groundwater,173628,498829516.0,72.0
+SAN DIEGO,South Coast,1,Olivenhain Municipal Water District,Surface Water,86478,572096600.7,139.0
+KERN,Tulare Lake,2,Delano  City of,Groundwater,53764,271987000.0,77.0
+SAN BERNARDINO,South Coast,Water Use Efficiency Best Practices,Monte Vista Water District,Surface Water Purchased,57678,250250309.5,104.0
+CONTRA COSTA,San Francisco Bay,0,Contra Costa Water District,Surface Water,205408,559486167.0,71.0
+SANTA CRUZ,Central Coast,Statewide Emergency Conservation,Watsonville  City of,Surface Water,65966,210619335.0,60.0
+TULARE,Tulare Lake,2,Dinuba  City of,Groundwater,24657,82340000.0,77.41
+MONTEREY,Central Coast,Stage 3,"Soledad, City of",Groundwater,16729,67081000.0,97.41
+MARIN,San Francisco Bay,none,North Marin Water District,Surface Water,61616,217000000.0,93.0
+SAN FRANCISCO,San Francisco Bay,0,San Francisco Public Utilities Commission,Surface Water Purchased,859276,1947410000.0,44.94
+CALAVERAS,San Joaquin River,Stage O,Calaveras County Water District,Surface Water,20698,81186000.0,67.24
+HUMBOLDT,North Coast,1,Humboldt Bay Municipal Water District,Groundwater,602,5560000.0,67.49
+SANTA BARBARA,Central Coast,1,Santa Maria  City of,Surface Water Purchased,107407,366031686.8,87.11
+SUTTER,Sacramento River,2,Yuba City  City of,Surface Water,73202,423970000.0,123.0
+PLACER,Sacramento River,0,Placer County Water Agency,Surface Water,106640,889119657.0,168.9
+NAPA,San Francisco Bay,Stage 2,Napa  City of,Surface Water,87134,390043647.0,94.0
+NEVADA,Sacramento River,None,Nevada Irrigation District,Surface Water,44761,282500000.0,168.87
+AMADOR,San Joaquin River,0,Amador Water Agency,Surface Water,22468,79940000.0,60.99
+BUTTE,Sacramento River,1,California Water Service Company Oroville,Surface Water,11197,65235370.2,89.1
+TUOLUMNE,San Joaquin River,phase II,Tuolumne Utilities District,Surface Water,31170,130014549.0,75.0
+SOLANO,Sacramento River,2,"Rio Vista, city of",Groundwater,9416,85410000.0,204.0
+FRESNO,Tulare Lake,1,California Water Service Company Selma,Groundwater,26164,151488129.9,91.4
+KINGS,Tulare Lake,0,Hanford  City of,Groundwater,59338,406957076.0,102.65
+YUBA,Sacramento River,1,California Water Service Company Marysville,Groundwater,12284,61129647.6,110.1
+MADERA,San Joaquin River,A,Madera  City of,Groundwater,66419,286286000.0,100.0
+LAKE,North Coast,1,California Water Service Company Redwood Valley,Surface Water,3249,10296891.6,90.6
+SAN JOAQUIN,San Joaquin River,1,California Water Service Company Stockton,Surface Water Purchased,173893,758646298.2,94.9
+GLENN,Sacramento River,1,California Water Service Company Willows,Groundwater,7178,37342524.6,132.3
+YOLO,Sacramento River,0,Woodland  City of,Surface Water Purchased,60742,317346882.0,95.91
+MONO,South Lahontan,0,Mammoth Community Water District,Surface Water,16739,54677000.0,63.0
+SAN BENITO,Central Coast,2,Hollister  City of,Surface Water Purchased,22007,94847911.0,93.18
+DEL NORTE,North Coast,1,Crescent City  City of,Groundwater,18879,66820000.0,71.7
+SISKIYOU,North Coast,1,"Yreka, City of",Surface Water,7840,68510000.0,119.0
+MENDOCINO,North Coast,0,Ukiah  City of,Surface Water,16075,122750000.0,145.0
+TEHAMA,Sacramento River,2,Red Bluff  City of,Groundwater,14076,114882258.0,156.0
+SHASTA,Sacramento River,First,"Anderson, City of",Groundwater,11147,76094000.0,175.9
