@@ -1,8 +1,7 @@
 # Freshwater Resource Management and Forecast System
----
 ## IBM Intern Hackathon 2020 - Climate Change
 ###### Nikita Patel, Lorenzo Muranelli, Yash Sardhara, Andi Xiong
-
+---
 
 Many cities throughout the world do not receive an adequate supply of freshwater due to climate change and limited access to freshwater resources [1]. In the US, California has dealt with similar issues influenced by droughts and wildfires [2]. The longest recorded drought in California lasted between 2011 and 2019 [3]. The drought substantially reduced freshwater levels in lakes and reservoirs and dried out vegetation [4]. To remedy the situation, California authorities placed periodic restrictions on its citizens’ freshwater usage, a trend that may continue to occur in the future [5]. In addition, some cities in California have experienced issues regarding water quality, as have many cities throughout the world [6]. As the scarcity of freshwater resources increases due to climate change, it is increasingly important to monitor the quantity and quality of freshwater using past, current, and future data. However, data about the quantity and quality of freshwater is often hard to find, interpret, and aggregate, making it difficult to employ effective solutions to alleviate these problems. Thus, we have created a freshwater resource management and forecast system using IBM Watson Studio applications such as AutoAI that will help authorities and citizens better manage their freshwater quality and consumption. 
 
