@@ -1,0 +1,492 @@
+[
+    {
+      "County": "ALAMEDA",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 0,
+      "Supplier_Name": "East Bay Municipal Utilities District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 1450000,
+      "Production_Reported": 5449600000,
+      "R_GPCD_Reported": 73
+    },
+    {
+      "County": "SAN LUIS OBISPO",
+      "Hydrologic_Region": "Central Coast",
+      "Stage": 2,
+      "Supplier_Name": "Morro Bay  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 10439,
+      "Production_Reported": 27554380,
+      "R_GPCD_Reported": 67.43
+    },
+    {
+      "County": "ORANGE",
+      "Hydrologic_Region": "South Coast",
+      "Stage": 0,
+      "Supplier_Name": "Yorba Linda Water District",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 79367,
+      "Production_Reported": 365272454,
+      "R_GPCD_Reported": 105.15
+    },
+    {
+      "County": "LOS ANGELES",
+      "Hydrologic_Region": "South Coast",
+      "Stage": 2,
+      "Supplier_Name": "Long Beach  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 498712,
+      "Production_Reported": 1423968870,
+      "R_GPCD_Reported": 55
+    },
+    {
+      "County": "MERCED",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 2,
+      "Supplier_Name": "Los Banos, City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 41923,
+      "Production_Reported": 277365000,
+      "R_GPCD_Reported": 108
+    },
+    {
+      "County": "STANISLAUS",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 2,
+      "Supplier_Name": "Turlock  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 74730,
+      "Production_Reported": 466900000,
+      "R_GPCD_Reported": 111.85
+    },
+    {
+      "County": "RIVERSIDE",
+      "Hydrologic_Region": "South Coast",
+      "Stage": 2,
+      "Supplier_Name": "Jurupa Community Service District",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 140147,
+      "Production_Reported": 426437619.3,
+      "R_GPCD_Reported": 75
+    },
+    {
+      "County": "SAN MATEO",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 0,
+      "Supplier_Name": "Coastside County Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 16848,
+      "Production_Reported": 59600000,
+      "R_GPCD_Reported": 63
+    },
+    {
+      "County": "SACRAMENTO",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 1,
+      "Supplier_Name": "Citrus Heights Water District",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 65093,
+      "Production_Reported": 380919819,
+      "R_GPCD_Reported": 170
+    },
+    {
+      "County": "VENTURA",
+      "Hydrologic_Region": "South Coast",
+      "Stage": 0,
+      "Supplier_Name": "Camrosa Water District",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 35783,
+      "Production_Reported": 248950164,
+      "R_GPCD_Reported": 157
+    },
+    {
+      "County": "EL DORADO",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 0,
+      "Supplier_Name": "El Dorado Irrigation District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 113255,
+      "Production_Reported": 1007857143,
+      "R_GPCD_Reported": 214
+    },
+    {
+      "County": "IMPERIAL",
+      "Hydrologic_Region": "Colorado River",
+      "Stage": 1,
+      "Supplier_Name": "El Centro  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 46364,
+      "Production_Reported": 172090000,
+      "R_GPCD_Reported": 87
+    },
+    {
+      "County": "SANTA CLARA",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 0,
+      "Supplier_Name": "Milpitas  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 76817,
+      "Production_Reported": 222296624,
+      "R_GPCD_Reported": 53
+    },
+    {
+      "County": "SONOMA",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 1,
+      "Supplier_Name": "Santa Rosa  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 173628,
+      "Production_Reported": 498829516,
+      "R_GPCD_Reported": 72
+    },
+    {
+      "County": "SAN DIEGO",
+      "Hydrologic_Region": "South Coast",
+      "Stage": 1,
+      "Supplier_Name": "Olivenhain Municipal Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 86478,
+      "Production_Reported": 572096600.7,
+      "R_GPCD_Reported": 139
+    },
+    {
+      "County": "KERN",
+      "Hydrologic_Region": "Tulare Lake",
+      "Stage": 2,
+      "Supplier_Name": "Delano  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 53764,
+      "Production_Reported": 271987000,
+      "R_GPCD_Reported": 77
+    },
+    {
+      "County": "SAN BERNARDINO",
+      "Hydrologic_Region": "South Coast",
+      "Stage": "Water Use Efficiency Best Practices",
+      "Supplier_Name": "Monte Vista Water District",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 57678,
+      "Production_Reported": 250250309.5,
+      "R_GPCD_Reported": 104
+    },
+    {
+      "County": "CONTRA COSTA",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 0,
+      "Supplier_Name": "Contra Costa Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 205408,
+      "Production_Reported": 559486167,
+      "R_GPCD_Reported": 71
+    },
+    {
+      "County": "SANTA CRUZ",
+      "Hydrologic_Region": "Central Coast",
+      "Stage": "Statewide Emergency Conservation",
+      "Supplier_Name": "Watsonville  City of",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 65966,
+      "Production_Reported": 210619335,
+      "R_GPCD_Reported": 60
+    },
+    {
+      "County": "TULARE",
+      "Hydrologic_Region": "Tulare Lake",
+      "Stage": 2,
+      "Supplier_Name": "Dinuba  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 24657,
+      "Production_Reported": 82340000,
+      "R_GPCD_Reported": 77.41
+    },
+    {
+      "County": "MONTEREY",
+      "Hydrologic_Region": "Central Coast",
+      "Stage": 3,
+      "Supplier_Name": "Soledad, City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 16729,
+      "Production_Reported": 67081000,
+      "R_GPCD_Reported": 97.41
+    },
+    {
+      "County": "MARIN",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 3,
+      "Supplier_Name": "North Marin Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 61616,
+      "Production_Reported": 217000000,
+      "R_GPCD_Reported": 93
+    },
+    {
+      "County": "SAN FRANCISCO",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 0,
+      "Supplier_Name": "San Francisco Public Utilities Commission",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 859276,
+      "Production_Reported": 1947410000,
+      "R_GPCD_Reported": 44.94
+    },
+    {
+      "County": "CALAVERAS",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 0,
+      "Supplier_Name": "Calaveras County Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 20698,
+      "Production_Reported": 81186000,
+      "R_GPCD_Reported": 67.24
+    },
+    {
+      "County": "HUMBOLDT",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 1,
+      "Supplier_Name": "Humboldt Bay Municipal Water District",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 602,
+      "Production_Reported": 5560000,
+      "R_GPCD_Reported": 67.49
+    },
+    {
+      "County": "SANTA BARBARA",
+      "Hydrologic_Region": "Central Coast",
+      "Stage": 1,
+      "Supplier_Name": "Santa Maria  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 107407,
+      "Production_Reported": 366031686.8,
+      "R_GPCD_Reported": 87.11
+    },
+    {
+      "County": "SUTTER",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 2,
+      "Supplier_Name": "Yuba City  City of",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 73202,
+      "Production_Reported": 423970000,
+      "R_GPCD_Reported": 123
+    },
+    {
+      "County": "PLACER",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 0,
+      "Supplier_Name": "Placer County Water Agency",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 106640,
+      "Production_Reported": 889119657,
+      "R_GPCD_Reported": 168.9
+    },
+    {
+      "County": "NAPA",
+      "Hydrologic_Region": "San Francisco Bay",
+      "Stage": 2,
+      "Supplier_Name": "Napa  City of",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 87134,
+      "Production_Reported": 390043647,
+      "R_GPCD_Reported": 94
+    },
+    {
+      "County": "NEVADA",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 0,
+      "Supplier_Name": "Nevada Irrigation District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 44761,
+      "Production_Reported": 282500000,
+      "R_GPCD_Reported": 168.87
+    },
+    {
+      "County": "AMADOR",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 0,
+      "Supplier_Name": "Amador Water Agency",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 22468,
+      "Production_Reported": 79940000,
+      "R_GPCD_Reported": 60.99
+    },
+    {
+      "County": "BUTTE",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Oroville",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 11197,
+      "Production_Reported": 65235370.2,
+      "R_GPCD_Reported": 89.1
+    },
+    {
+      "County": "TUOLUMNE",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 2,
+      "Supplier_Name": "Tuolumne Utilities District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 31170,
+      "Production_Reported": 130014549,
+      "R_GPCD_Reported": 75
+    },
+    {
+      "County": "SOLANO",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 2,
+      "Supplier_Name": "Rio Vista, city of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 9416,
+      "Production_Reported": 85410000,
+      "R_GPCD_Reported": 204
+    },
+    {
+      "County": "FRESNO",
+      "Hydrologic_Region": "Tulare Lake",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Selma",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 26164,
+      "Production_Reported": 151488129.9,
+      "R_GPCD_Reported": 91.4
+    },
+    {
+      "County": "KINGS",
+      "Hydrologic_Region": "Tulare Lake",
+      "Stage": 0,
+      "Supplier_Name": "Hanford  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 59338,
+      "Production_Reported": 406957076,
+      "R_GPCD_Reported": 102.65
+    },
+    {
+      "County": "YUBA",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Marysville",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 12284,
+      "Production_Reported": 61129647.6,
+      "R_GPCD_Reported": 110.1
+    },
+    {
+      "County": "MADERA",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 0,
+      "Supplier_Name": "Madera  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 66419,
+      "Production_Reported": 286286000,
+      "R_GPCD_Reported": 100
+    },
+    {
+      "County": "LAKE",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Redwood Valley",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 3249,
+      "Production_Reported": 10296891.6,
+      "R_GPCD_Reported": 90.6
+    },
+    {
+      "County": "SAN JOAQUIN",
+      "Hydrologic_Region": "San Joaquin River",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Stockton",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 173893,
+      "Production_Reported": 758646298.2,
+      "R_GPCD_Reported": 94.9
+    },
+    {
+      "County": "GLENN",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 1,
+      "Supplier_Name": "California Water Service Company Willows",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 7178,
+      "Production_Reported": 37342524.6,
+      "R_GPCD_Reported": 132.3
+    },
+    {
+      "County": "YOLO",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 0,
+      "Supplier_Name": "Woodland  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 60742,
+      "Production_Reported": 317346882,
+      "R_GPCD_Reported": 95.91
+    },
+    {
+      "County": "MONO",
+      "Hydrologic_Region": "South Lahontan",
+      "Stage": 0,
+      "Supplier_Name": "Mammoth Community Water District",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 16739,
+      "Production_Reported": 54677000,
+      "R_GPCD_Reported": 63
+    },
+    {
+      "County": "SAN BENITO",
+      "Hydrologic_Region": "Central Coast",
+      "Stage": 2,
+      "Supplier_Name": "Hollister  City of",
+      "Water Source Type": "Surface Water Purchased",
+      "Population_Served": 22007,
+      "Production_Reported": 94847911,
+      "R_GPCD_Reported": 93.18
+    },
+    {
+      "County": "DEL NORTE",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 1,
+      "Supplier_Name": "Crescent City  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 18879,
+      "Production_Reported": 66820000,
+      "R_GPCD_Reported": 71.7
+    },
+    {
+      "County": "SISKIYOU",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 1,
+      "Supplier_Name": "Yreka, City of",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 7840,
+      "Production_Reported": 68510000,
+      "R_GPCD_Reported": 119
+    },
+    {
+      "County": "MENDOCINO",
+      "Hydrologic_Region": "North Coast",
+      "Stage": 0,
+      "Supplier_Name": "Ukiah  City of",
+      "Water Source Type": "Surface Water",
+      "Population_Served": 16075,
+      "Production_Reported": 122750000,
+      "R_GPCD_Reported": 145
+    },
+    {
+      "County": "TEHAMA",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 2,
+      "Supplier_Name": "Red Bluff  City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 14076,
+      "Production_Reported": 114882258,
+      "R_GPCD_Reported": 156
+    },
+    {
+      "County": "SHASTA",
+      "Hydrologic_Region": "Sacramento River",
+      "Stage": 1,
+      "Supplier_Name": "Anderson, City of",
+      "Water Source Type": "Groundwater",
+      "Population_Served": 11147,
+      "Production_Reported": 76094000,
+      "R_GPCD_Reported": 175.9
+    }
+  ]
